@@ -1,0 +1,22 @@
+*{margin: 0px;
+padding: 0px;
+box-sizing: border-box;}
+.pic{display: flex; justify-content: center; 
+   }
+   .img2{display: flex; justify-content: center; }
+  .hh {display: flex; justify-content:space-around; 
+   }
+   nav{background: rgb(76, 76, 245); margin:5px; padding: 10px;
+        display: flex; justify-content: center;}
+        nav li {list-style: none;}
+        .ul a {text-decoration: none; color:#fff; background: red; padding: 10px;}
+        nav ul ul li a [href*='en.com']{background: red;}
+   .list ul li a
+   {  text-decoration: none; list-style: none; color: #fff; }
+  .list ul li{display: inline;padding: 20px;}
+   .list  ul li a:hover{background: red; padding: 10px;}
+   .list ul li a:active{background: red;}
+   .pic3{margin: auto; border: 1px solid rgb(184, 182, 182);}
+   .content{color: red; text-align: center;}
+ 
+    
